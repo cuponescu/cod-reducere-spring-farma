@@ -1,6 +1,6 @@
 # Cod Reducere Spring Farma
 
-O colecție de coduri de reducere Spring Farma. Le folosim pentru testarea cuvintelor cheie cod reducere Spring Farma, voucher Spring Farma, cupon Spring Farma, și cod promotional Spring Farma de pe Cuponescu.ro.
+O colecție de coduri de reducere Spring Farma. Le folosim pentru testarea cuvintelor cheie [cod reducere Spring Farma](https://cuponescu.ro/magazin/spring-farma), [voucher Spring Farma](https://cuponescu.ro/magazin/spring-farma), [cupon Spring Farma](https://cuponescu.ro/magazin/spring-farma), și [cod promotional Spring Farma](https://cuponescu.ro/magazin/spring-farma) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-spring-farma a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
